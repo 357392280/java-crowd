@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "short.message",
+      "type": "com.atguigu.crowd.config.ShortMessageProperrties",
+      "sourceType": "com.atguigu.crowd.config.ShortMessageProperrties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "short.message.app-code",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.crowd.config.ShortMessageProperrties"
+    },
+    {
+      "name": "short.message.host",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.crowd.config.ShortMessageProperrties"
+    },
+    {
+      "name": "short.message.method",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.crowd.config.ShortMessageProperrties"
+    },
+    {
+      "name": "short.message.path",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.crowd.config.ShortMessageProperrties"
+    },
+    {
+      "name": "short.message.template-id",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.crowd.config.ShortMessageProperrties"
+    }
+  ],
+  "hints": []
+}
