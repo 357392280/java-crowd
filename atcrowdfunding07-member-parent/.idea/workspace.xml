@@ -1,277 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4de5888f-de69-4be4-9404-39a02b88876d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding08-member-eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding08-member-eureka/src/main/java/com/atguigu/crowd/CrowdMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding08-member-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding08-member-eureka/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding08-member-eureka/target/classes/com/atguigu/crowd/CrowdMainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/po/MemberPO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/po/MemberPOExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/vo/MemberLoginVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/vo/MemberVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/atcrowdfunding09-member-entity-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberPO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberPOExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberPOExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberPOExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberPOExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/MemberLoginVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/MemberVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding09-member-entity/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/CrowdMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/hander/MemberProviderHander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/MemberPOMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/service/api/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/service/impl/MemberServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis/mapper/MemberPOMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/CrowdMainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/hander/MemberProviderHander.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/MemberPOMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/service/api/MemberService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/service/impl/MemberServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/MemberPOMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding11-member-redis-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding11-member-redis-provider/src/main/java/com/atguigu/crowd/CrowdMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding11-member-redis-provider/src/main/java/com/atguigu/crowd/hander/RedisHander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding11-member-redis-provider/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding11-member-redis-provider/src/test/java/com/atguigu/crowd/test/RedisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding11-member-redis-provider/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding11-member-redis-provider/target/classes/com/atguigu/crowd/CrowdMainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding11-member-redis-provider/target/classes/com/atguigu/crowd/hander/RedisHander.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding11-member-redis-provider/target/test-classes/com/atguigu/crowd/test/RedisTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/java/com/atguigu/crowd/CrowdMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/java/com/atguigu/crowd/config/CrowdWebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/java/com/atguigu/crowd/config/ShortMessageProperrties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/java/com/atguigu/crowd/hander/MemberHander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/java/com/atguigu/crowd/hander/PortalHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/bootstrap/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/css/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/css/doc.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/css/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/fontawesome4.2/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/fontawesome4.2/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/fontawesome4.2/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/fontawesome4.2/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/fontawesome4.2/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/carousel-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/carousel-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/carousel-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/p1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/p2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/p3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/p3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/product-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/product-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/product-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/product-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/product-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/product-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/product-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/product_detail_body.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/product_detail_head.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/services-box1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/services-box2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/services-box3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/img/services-box4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/jquery/jquery-2.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/jquery/jquery-form.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/jquery/jquery.pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/layer/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/layer/mobile/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/layer/mobile/need/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/layer/theme/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/layer/theme/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/layer/theme/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/layer/theme/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/layer/theme/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/layer/theme/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/script/back-to-top.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/script/docs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/script/echarts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/diy/1_close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/diy/1_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/diy/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/diy/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/diy/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/diy/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/diy/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/diy/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/diy/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/diy/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/line_conn.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/zTreeStandard.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/img/zTreeStandard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/jquery.ztree.all-3.5.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/static/ztree/zTreeStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/templates/member-center.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/templates/portal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/src/main/resources/templates/reg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/com/atguigu/crowd/CrowdMainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/com/atguigu/crowd/config/CrowdWebMvcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/com/atguigu/crowd/config/ShortMessageProperrties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/com/atguigu/crowd/hander/MemberHander.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/com/atguigu/crowd/hander/PortalHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/doc.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome4.2/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome4.2/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome4.2/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome4.2/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome4.2/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/carousel-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/carousel-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/carousel-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/p1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/p2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/p3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/p3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product_detail_body.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product_detail_head.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/services-box1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/services-box2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/services-box3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/services-box4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/jquery/jquery-2.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/jquery/jquery-form.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/jquery/jquery.pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/mobile/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/mobile/need/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/script/back-to-top.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/script/docs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/script/echarts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/1_close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/1_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/line_conn.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/zTreeStandard.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/zTreeStandard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/jquery.ztree.all-3.5.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/zTreeStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/templates/member-center.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/templates/portal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding12-member-authentication-consumer/target/classes/templates/reg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding13-member-project-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding14-member-order-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding15-member-pay-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding16-member-zuul/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding16-member-zuul/src/main/java/com/atguigu/crowd/CrowdMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding16-member-zuul/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding16-member-zuul/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding16-member-zuul/target/classes/com/atguigu/crowd/CrowdMainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding17-member-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding17-member-api/src/main/java/com/atguigu/crowd/api/MySQLRemoteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding17-member-api/src/main/java/com/atguigu/crowd/api/RedisRemoteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding17-member-api/target/classes/com/atguigu/crowd/api/MySQLRemoteService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atcrowdfunding17-member-api/target/classes/com/atguigu/crowd/api/RedisRemoteService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4de5888f-de69-4be4-9404-39a02b88876d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/atcrowdfunding08-member-eureka/target/" />
@@ -676,8 +406,16 @@
       <workItem from="1596242113630" duration="4049000" />
       <workItem from="1596415362968" duration="9181000" />
       <workItem from="1596444837292" duration="768000" />
-      <workItem from="1596445631131" duration="1752000" />
+      <workItem from="1596445631131" duration="2042000" />
     </task>
+    <task id="LOCAL-00001" summary="是首次提交">
+      <created>1596447542275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596447542275</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -695,7 +433,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61136000" />
+    <option name="totallyTimeSpent" value="61426000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -731,7 +469,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.43304843" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.1994302" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.16524217" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -781,6 +519,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="是首次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="是首次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/atcrowdfunding08-member-eureka/pom.xml">
