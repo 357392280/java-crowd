@@ -7,6 +7,10 @@ spring:
     prefix: classpath:/templates/
     suffix: .html
     cache: false
+  redis:
+    host: 192.168.213.128
+  session:
+      store-type: redis
 eureka:
   client:
     service-url:

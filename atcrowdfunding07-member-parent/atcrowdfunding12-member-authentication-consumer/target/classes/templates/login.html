@@ -28,6 +28,7 @@
 
       <form class="form-signin" role="form" action="/auth/do/member/login" method="post">
         <h2 class="form-signin-heading"><i class="glyphicon glyphicon-log-in"></i> 用户登录</h2>
+          <p th:text="${session.message}">这里登录检查后发现不允许访问时的提示消息</p>
           <p th:text="${message}">显示提示信息</p>
 		  <div class="form-group has-success has-feedback">
 			<input name="loginacct" type="text" class="form-control" id="inputSuccess4" placeholder="请输入登录账号" autofocus>
