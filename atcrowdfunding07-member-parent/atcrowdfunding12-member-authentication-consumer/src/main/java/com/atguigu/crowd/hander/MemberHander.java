@@ -36,6 +36,7 @@ public class MemberHander {
     public String loginout(HttpSession session){
         session.invalidate();
         return "redirect:/";
+        //return "redirect:htttp://www.crowd.com/";
     }
 
     @RequestMapping("/auth/do/member/login")
@@ -45,6 +46,7 @@ public class MemberHander {
                          HttpSession session){
      //调用远程接口获取membervo对象
         ResultEntity<MemberPO> memberPOByLoginAcctRemote = mySQLRemoteService.getMemberPOByLoginAcctRemote(loginacct);
+//
         if (ResultEntity.FAILED.equals(memberPOByLoginAcctRemote.getOperationResult())){
             modelMap.addAttribute(CrowdConstant.ATTR_NAME_MESSAGE,memberPOByLoginAcctRemote.getOperationMessage());
             return "login";
