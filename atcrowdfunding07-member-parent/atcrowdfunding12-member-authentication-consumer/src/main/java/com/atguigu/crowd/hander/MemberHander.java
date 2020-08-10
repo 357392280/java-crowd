@@ -35,8 +35,8 @@ public class MemberHander {
     @RequestMapping("/auth/member/loginout")
     public String loginout(HttpSession session){
         session.invalidate();
-        return "redirect:/";
-        //return "redirect:htttp://www.crowd.com/";
+        return "redirect:http://www.crowd.com/auth/do/member/login";
+
     }
 
     @RequestMapping("/auth/do/member/login")
@@ -69,7 +69,7 @@ public class MemberHander {
         session.setAttribute(CrowdConstant.ATTR_NAME_LOGIN_MESSAAGE,memberLoginVO);
 
 
-        return "redirect:/auth/member/to/center/page";
+        return "redirect:http://www.crowd.com/auth/member/to/center/page";
     }
 
     @ResponseBody

@@ -115,7 +115,7 @@
       #{usertype,jdbcType=INTEGER}, #{realname,jdbcType=VARCHAR}, #{cardnum,jdbcType=VARCHAR}, 
       #{accttype,jdbcType=INTEGER})
   </insert>
-  <insert id="insertSelective" parameterType="com.atguigu.crowd.entity.po.MemberPO" >
+  <insert id="insertSelective" useGeneratedKeys="true" keyProperty="id" parameterType="com.atguigu.crowd.entity.po.MemberPO" >
     insert into t_member
     <trim prefix="(" suffix=")" suffixOverrides="," >
       <if test="id != null" >
