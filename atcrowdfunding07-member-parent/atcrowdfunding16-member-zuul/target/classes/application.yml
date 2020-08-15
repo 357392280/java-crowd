@@ -21,6 +21,9 @@ zuul:
     crowd-project:
       service-id: atguigu-crowd-project
       path: /project/**
+    crowd-order:
+      service-id: atguigu-crowd-order
+      path: /order/**
 ribbon:
   ReadTimeout: 10000
   ConnectTimeout: 10000
